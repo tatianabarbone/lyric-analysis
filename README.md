@@ -39,6 +39,8 @@ Through this project, I discovered the most prominent words and bigrams that app
 3. Clusters of similar songs 
 4. Songs that were outliers (had drastically different sentiment scores than others)
 
+![lineplot](https://github.com/tatianabarbone/text-analytics/blob/master/images/sentiment_lineplot.png)
+
 Using a co-occurence matrix of keywords I produced a semantic network highlighting clusters of interconnected words. From this I can conlcude that love is an overarching topic in her songs.
 ![Co-occurence matrix](https://github.com/tatianabarbone/text-analytics/blob/master/images/semantic-network.pdf)
 
