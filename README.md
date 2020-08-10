@@ -3,7 +3,7 @@
 
 Click the "Open in Colab" button below to view this project in a Google Colaboratory notebook.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x2GxmWUc-uERbEl4av0jqz4BmrFKgdIT#scrollTo=fjjtMHibSO27)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x2GxmWUc-uERbEl4av0jqz4BmrFKgdIT)
 
 
 ### Introduction
