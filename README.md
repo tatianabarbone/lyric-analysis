@@ -1,10 +1,11 @@
 
 # Using NLP Techniques and Text Analytics on Ariana Grande Lyrics 
 
-Click the "Open in Colab" button below to view this project in a Google Colaboratory notebook.
+To view a static version of this notebook, click here: https://github.com/tatianabarbone/text-analytics/blob/master/text_analytics_ariana_grande.ipynb
+
+Alternatively, click the "Open in Colab" button below to view this project in a Google Colaboratory notebook.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x2GxmWUc-uERbEl4av0jqz4BmrFKgdIT)
-
 
 ### Introduction
 
