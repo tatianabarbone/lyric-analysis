@@ -9,7 +9,7 @@ Alternatively, click the "Open in Colab" button below to view this project in a 
 
 ### Introduction
 
-I've been an Ariana Grande fan since 2013. Since then, she has released five albums (and counting) so I figured over 60 songs would be plenty of data to explore how her lyrics have changed over time.
+I've been an Ariana Grande fan since 2013. Since then, she has released six albums (and counting) so I figured over 60 songs would be plenty of data to explore how her lyrics have changed over time.
 
 ### About the Data
 
@@ -51,3 +51,5 @@ Using a co-occurence matrix of keywords I produced a semantic network highlighti
 This project helped me understand trends in Ariana Grande's albums, her lexical diversity and how her albums have changed over time.
 
 To add to this project, we can try running ML algorithms on the data to see if we can create a model that accurately predicts the sentiment of any song based on its order in the album or words that are likely to appear in future Ariana Grande albums. We can try to recommend similar songs based on sentiment or try this process on a different artist.
+
+**October 2020 Update:** Ariana released a new album, and I am planning on incorporating lyrics from *Positions* into this project.
