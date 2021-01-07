@@ -1,11 +1,8 @@
 
 # Using NLP Techniques and Text Analytics on Ariana Grande Lyrics 
 
-To view a static version of this notebook, click here: https://github.com/tatianabarbone/text-analytics/blob/master/text_analytics_ariana_grande.ipynb
-
-Alternatively, click the "Open in Colab" button below to view this project in a Google Colaboratory notebook.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x2GxmWUc-uERbEl4av0jqz4BmrFKgdIT)
+To view a static version of this notebook, click [here](https://github.com/tatianabarbone/text-analytics/blob/master/text_analytics_ariana_grande.ipynb), or click 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x2GxmWUc-uERbEl4av0jqz4BmrFKgdIT)  to view this project in a Google Colaboratory notebook.
 
 ### Introduction
 
@@ -53,3 +50,5 @@ This project helped me understand trends in Ariana Grande's albums, her lexical 
 To add to this project, we can try running ML algorithms on the data to see if we can create a model that accurately predicts the sentiment of any song based on its order in the album or words that are likely to appear in future Ariana Grande albums. We can try to recommend similar songs based on sentiment or try this process on a different artist.
 
 **October 2020 Update:** Ariana released a new album, and I am planning on incorporating lyrics from *Positions* into this project.
+
+**January 2021 Update:** The notebook has been updated to include songs from *Positions*.
