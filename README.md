@@ -8,10 +8,6 @@ To view a static version of this notebook, click [here](https://github.com/tatia
 
 I've been an Ariana Grande fan since 2013. Since then, she has released six albums (and counting) so I figured over 60 songs would be plenty of data to explore how her lyrics have changed over time.
 
-### About the Data
-
-To get the data I used BeautifulSoup to parse text from two websites: discogs.com and genius.com. I pulled the song titles from discogs and using the song title, made a request to genius for the lyrics of the song. I stored the data in a pandas data frame.
-
 ### Goal
 
 The goal of this project is to use exploratory data analysis to uncover trends in the song lyrics using visualizations of the data. Specifically, I want to answer these questions:
@@ -20,7 +16,6 @@ The goal of this project is to use exploratory data analysis to uncover trends i
 2. What are the most frequent words in her songs? Which bigrams does she use the most?
 3. How have Ariana Grande's songs changed over time?
 
-
 ### Process
 
 * Retrieves song information by scraping data from the web using requests and BeautifulSoup
@@ -28,6 +23,10 @@ The goal of this project is to use exploratory data analysis to uncover trends i
 * Structures and mungs data using pandas
 * Applies common NLP techniques such as sentiment analysis
 * Provides insightful visualizations with matplotlib and Gephi
+
+### About the Data
+
+To get the data I used BeautifulSoup to parse text from two websites: discogs.com and genius.com. I pulled the song titles from discogs and using the song title, made a request to genius for the lyrics of the song. I stored the data in a pandas data frame.
 
 ### Conclusion / Results
 
