@@ -1,6 +1,13 @@
 
 # Using NLP Techniques and Text Analytics on Ariana Grande Lyrics 
 
+### Highlights
+
+| <img src="images/semantic_network_new.png" width="500" height="500" />  | 
+|:--:| 
+| A semantic network of the top 50 words in Ariana's discography |
+
+
 To view a static version of this notebook, click [here](https://github.com/tatianabarbone/text-analytics/blob/master/text_analytics_ariana_grande.ipynb), or click 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x2GxmWUc-uERbEl4av0jqz4BmrFKgdIT)  to view this project in a Google Colaboratory notebook.
 
@@ -38,8 +45,7 @@ Through this project, I discovered the most prominent words and bigrams that app
 
 ![lineplot](https://github.com/tatianabarbone/text-analytics/blob/master/images/sentiment_lineplot.png)
 
-Using a co-occurence matrix of keywords I produced a semantic network highlighting clusters of interconnected words. From this I can conlcude that love is an overarching topic in her songs.
-![Co-occurence matrix](https://github.com/tatianabarbone/text-analytics/blob/master/images/semantic-network.pdf)
+Using a co-occurence matrix of keywords I produced a semantic network highlighting clusters of interconnected words. From this we can conlcude that love is an overarching topic in her songs.
 
 
 ### Project Value and Actionable Next Steps
